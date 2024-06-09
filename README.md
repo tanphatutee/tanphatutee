@@ -13,9 +13,9 @@
 
  🌍 I'm based in Vietnamese 
  
- <!-- 🔭 I’m currently working on **a chat app** -->
+ 🔭 I'm 4rd year student of HCMUTE
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡Inspiration **Adventure is the best way to learn.**
  
  </div>
 
