@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tan+Phat!;" />
 </h1>
 
-<h3 align="center">I am a senior student at [Ho Chi Minh City University of Technology and Education](https://hcmute.edu.vn/), majoring Computer Engineering.</h3>
+<h3 align="center">I am a senior student at Ho Chi Minh City University of Technology and Education, majoring Computer Engineering.</h3>
 
 <br/>
 
@@ -28,7 +28,7 @@
   </a> -->
   <!-- <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a> -->
+  </a> 
 </div>
 
 <!-- <h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2> -->
