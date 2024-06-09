@@ -23,11 +23,7 @@
   <a href="mailto:votanphatoo813@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> -->
-  <!-- <a href="https://thanhtin4401.github.io/myWebSite/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  
   </a> 
 </div>
 
@@ -40,7 +36,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" alt="giphy" />
+  <img src="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
